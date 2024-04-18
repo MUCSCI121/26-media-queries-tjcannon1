@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/*
+Create a media query that changes the font color from green when displayed on a screen to red when printed
+*/
+.print-color {}
+
+/** 
+Create a media query that changes the shape of the div
+from a square when in portrait mode to a rectangle when landscape.
+*/
+.orientation-shape {}
+
+/** 
+Create media query that hides this element when the width is either 
+less than 600px or greater than 1200px
+**/
+.hide-me-sometimes {}
